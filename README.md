@@ -9,10 +9,10 @@
   <img align="left" alt="Leonardo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/mrpep">
-  <img align="left" alt="Leonardo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
+  <img align="left" alt="Leonardo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://scholar.google.com/citations?user=xErFe4kAAAAJ&hl=en&oi=ao">
-  <img align="left" alt="Leonardo's Google Scholar profile" width="22px" src="" />
+  <img align="left" alt="Leonardo's Google Scholar profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />
 </a>
 
 <br/>

@@ -21,7 +21,7 @@
 - 🖥️ I’m a computer science PhD candidate at Universidad de Buenos Aires 🇦🇷.
 - 🗣️ I'm a member of the speech processing group at the [Applied Artificial Intelligence Laboratory](https://liaa.dc.uba.ar/) 🧠
 - 🔊 My main interests are the applications of deep learning to audio signal processing and analysis. I am currently working in audio representation learning and speech emotion recognition.
-- 🎸 In my free time I play guitar, or anything that makes sounds. In my undergraduate thesis I developed a fast music source separation system. [Check it out!](https://www.latentsound.com/)
+- 🎸 In my free time I play guitar, or anything that makes sounds. In my master thesis I developed a fast music source separation system. [Check it out!](https://www.latentsound.com/)
  
 <a href="https://github.com/mrpep">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpep&show_icons=true&theme=dark&line_height=27" alt="Leonardo Pepino github stats"/>
